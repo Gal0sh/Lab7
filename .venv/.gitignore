@@ -1,0 +1,22 @@
+# Ігнорування середовища Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ігнорування віртуального середовища
+venv/
+Sukhomlin/
+
+# Docker-файли та томи
+*.log
+postgres_data/
+
+# Інші тимчасові файли
+*.sqlite3
+.DS_Store
+*.swp
+
+# Ігнорування IDE
+.idea/
+*.iml
+.vscode/
